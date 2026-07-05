@@ -1,42 +1,45 @@
-# 🌱 Smart Greenhouse Monitoring and Control System Using PLC
+# 🌱 Smart Greenhouse Monitoring and Control System Using Renu Electronics PLC
 
 ## 📌 Project Overview
-This project uses a PLC to automatically monitor and control greenhouse conditions. Sensors measure temperature, humidity, soil moisture, and light intensity. Based on these inputs, the PLC controls a water pump, exhaust fan, and LED grow lights to maintain optimal conditions for plant growth.
+This project is a PLC-based Smart Greenhouse Monitoring and Control System developed using a **Renu Electronics PLC**. The system automatically monitors environmental parameters such as temperature, soil moisture, and light intensity. Based on sensor inputs, the PLC controls the water pump, cooling fan, and LED lighting to maintain suitable conditions for plant growth. This project demonstrates industrial automation concepts using PLC programming, sensors, relays, and actuators.
 
 ## 🎯 Objectives
-- Automate greenhouse monitoring
-- Reduce manual effort
-- Save water and energy
-- Improve plant growth
+- Automate greenhouse monitoring and control
+- Reduce manual intervention
+- Improve water and energy efficiency
+- Maintain optimal environmental conditions
 
 ## 🛠 Hardware Used
-- PLC
+- Renu Electronics PLC
 - Temperature Sensor
-- Humidity Sensor
 - Soil Moisture Sensor
 - Light Sensor (LDR)
-- Relay Module
 - Water Pump
-- Exhaust Fan
-- LED Grow Light
+- Cooling Fan (DC Fan)
+- Relay Module
+- LED Indicator / Grow Light
+- Power Supply
+- Connecting Wires
+- Prototype Greenhouse Setup
 
 ## 💻 Software Used
-- Siemens TIA Portal (or your PLC software)
-- Factory I/O (if used)
-- WinCC (if used)
+- Renu Ladder Programming Software (FlexSoft)
+- Windows PC/Laptop
 
-## ⚙ Working
-- High Temperature → Fan ON
+## ⚙️ Working
+- High Temperature → Cooling Fan ON
 - Low Soil Moisture → Water Pump ON
-- Low Light → LED ON
-- Low Humidity → Misting System ON
+- Low Light Intensity → LED Light ON
+- Normal Conditions → All outputs OFF
 
 ## 📂 Project Files
-- PLC Program
-- Ladder Logic
-- Screenshots
+- PLC Ladder Logic
+- Hardware Setup Images
+- Wiring Diagram
 - Project Report
+- Demo Video
 
 ## 👨‍💻 Author
-Jay Deshmukh
-Instrumentation & Control Engineering Student
+**Jay Deshmukh**  
+Instrumentation & Control Engineering Student  
+VIT Pune
