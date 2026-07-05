@@ -34,7 +34,6 @@ This project uses a PLC to automatically monitor and control greenhouse conditio
 ## 📂 Project Files
 - PLC Program
 - Ladder Logic
-- Wiring Diagram
 - Screenshots
 - Project Report
 
